@@ -39,6 +39,17 @@ Another sobering thought to keep in mind: not all Covid deaths are in the hospit
 
 (Deaths in EHPAD are only reported 2x a week, so there are no daily numbers. But as of Nov 10 there were 13000 cumulative EHPAD deaths, and nearly 29000 cumulative deaths in hospital).
 
-## Next update: an incidence rate reality check
+## But the war ain't over
+
+On Nov 20, the only France metroplitaine region with **less** than 60% of ICU was Bretagne. 
+
+Some of you may recall that 60% ICU saturation was the threshold for _Etat d'urgence sanitaire_, the most dire of the 4  brief-lived alert levels that were introduced in September, since it would so several limit ICU capacity for other patients.
+
+In Macron's speech in mid-October, he explained that a **sustainable level of Covid patients in ICU is 10-15%**.
+
+{% raw %}<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://limegimlet.github.io/covid_dataviz/rea_pct_region.html" height="600" width="100%"></iframe>
+{% endraw %}
+
+# Next update: an incidence rate reality check
 
 In my next post, I'll explain that the plunge in incidence rates, while definitely a clear trend, is not _quite_ as spectacular as some news articles has made it sound. 
