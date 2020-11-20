@@ -15,7 +15,6 @@ Let's start this blog on a cheerful note. 3 weeks into our 2nd confinement here 
 
 ![Star Wars: A New Hope movie poster](https://cdn.arstechnica.net/wp-content/uploads/2016/02/Starwars-640x360.jpg)
 
-
 ## Hospital occupancy going down
 
 The most solid evidence is in the hospitals: the number of patients **currently occupying** regular hospital or ICU beds have not only flattened, but have even begun to go down .
