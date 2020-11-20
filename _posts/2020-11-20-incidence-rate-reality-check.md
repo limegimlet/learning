@@ -7,11 +7,11 @@ categories:
   - blog
 tags:
   - covid
-  - testing
+  - covid_testing
   - confinement
 ---
 
-Last week I started looking at just how much incidence rates (`incid_tous`) in the plot below) have changed since France went into confinement (again) on Oct 28. 
+Last week I started looking at just how much incidence rates have changed since France went into confinement (again) on Oct 28. 
 
 They'd plunged!
 
@@ -27,4 +27,8 @@ The more you test, the more cases you'll find per 100 000 population. And vice-v
 
 Sure enough, testing has nosedived as well.
 
-{% raw %}<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/380.embed?showlink=false"></iframe> {% endraw %}
+{% raw %}<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/405.embed?showlink=false"></iframe> {% endraw %}
+
+## The final result
+
+{% raw %}<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/405.embed?showlink=false"></iframe> {% endraw %}
