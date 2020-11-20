@@ -5,7 +5,7 @@ main:
   #  url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Covid dataviz"
+  - title: "Covid Data Viz"
     url: "https://limegimlet.github.io/covid_dataviz"
   - title: "About"
     url: /about/
