@@ -4,7 +4,9 @@ date: 2020-11-19T13:53:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
+  - covid
+  - hospitals
+  - confinement
   - update
 ---
 
@@ -24,11 +26,11 @@ You can also see that **new patient admissions** to hospital and ICU are going d
 
 Daily Covid deaths have flattened, but have not (yet) begun going down. Which is not surprising. Most people spend time in hospital or ICU before they unfortunately pass away.
 
+{% raw %}<iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/383.embed?showlink=false"></iframe> {% endraw %}
+
 Another sobering thought to keep in mind: not all Covid deaths are in the hospital. To date, EHPADs (senior homes) account for ~1/3 of total Covid deaths. 
 
-(Deaths in EHPAD are only reported 2x a week, so there are no daily numbers. But as of Nov 10 there were 13000 EHPAD deaths, and nearly 29000 deaths in hospital).
-
-{% raw %}<iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/383.embed?showlink=false"></iframe> {% endraw %}
+(Deaths in EHPAD are only reported 2x a week, so there are no daily numbers. But as of Nov 10 there were 13000 cumulative EHPAD deaths, and nearly 29000 cumulative deaths in hospital).
 
 ## Next update: an incidence rate reality check
 
