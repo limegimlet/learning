@@ -1,5 +1,7 @@
 ---
 title: "Post: Quote"
+published: false
+
 categories:
   - Blog
 tags:
