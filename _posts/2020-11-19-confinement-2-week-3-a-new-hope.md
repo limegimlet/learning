@@ -24,7 +24,7 @@ You can also see that **new patient admissions** to hospital and ICU are going d
 
 ## Reality check
 
-Daily Covid deaths have flattened, but have not (yet) begun going down. Which is not surprising. Most people spend time in hospital or ICU before they unfortunately pass away.
+Daily Covid deaths have flattened, but have not (yet) begun going down. This is not surprising: most people spend time in hospital or ICU before they pass away.
 
 {% raw %}<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/383.embed?showlink=false"></iframe> {% endraw %}
 
