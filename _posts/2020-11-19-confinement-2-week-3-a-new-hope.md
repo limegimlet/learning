@@ -26,9 +26,11 @@ You can also see that **new patient admissions** to hospital and ICU are going d
 
 {% raw %}<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/380.embed?showlink=false"></iframe> {% endraw %}
 
-## New deaths remain flat for now
+## New deaths may be flattening
 
-Daily Covid deaths have flattened, but have not (yet) begun going down. This is not surprising: most people spend time in hospital or ICU before they pass away.
+Daily Covid deaths are now barely increasing, and you can only really see the increase by zooming in on the last few days. Since ICU occupancy as well as new admissions are already decreasing, we can expect to soon see deaths level off. 
+
+This lag is to be expected: most patients will spend time fighting against Covid in hospital or ICU before they pass away.
 
 {% raw %}<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/383.embed?showlink=false"></iframe> {% endraw %}
 
