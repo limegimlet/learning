@@ -17,7 +17,7 @@ They'd plunged!
 
 {% raw %}<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://limegimlet.github.io/covid_dataviz/kpi_incid_tous_by_reg.html" height="500" width="100%"></iframe>{% endraw %}
 
-At first, I was pretty stunned. And excited - who could have thought 'confinement lite' could have such quick results? It's even more impressive when you look at the percentage changes:
+At first, I was pretty stunned. And excited - who would have thought that 'confinement lite' could have such quick results? It's even more impressive when you look at the percentage changes:
 
 {% raw %}<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/403.embed?showlink=false"></iframe> {% endraw %}
 
