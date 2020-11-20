@@ -1,5 +1,5 @@
 ---
-title: "Confinement 2, week 3: A New Hope"
+title: "Confinement 2: A New Hope"
 date: 2020-11-19T13:53:30-04:00
 categories:
   - blog
