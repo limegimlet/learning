@@ -43,12 +43,12 @@ Another sobering thought to keep in mind: not all Covid deaths are in the hospit
 
 On Nov 20, the only France metroplitaine region with **less** than 60% of ICU was Bretagne. 
 
+{% raw %}<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://limegimlet.github.io/covid_dataviz/rea_pct_region.html" height="600" width="100%"></iframe>
+{% endraw %}
+
 Some of you may recall that 60% ICU saturation was the threshold for _Etat d'urgence sanitaire_, the most dire of the 4  brief-lived alert levels that were introduced in September, since it would so several limit ICU capacity for other patients.
 
 In Macron's speech in mid-October, he explained that a **sustainable level of Covid patients in ICU is 10-15%**.
-
-{% raw %}<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://limegimlet.github.io/covid_dataviz/rea_pct_region.html" height="600" width="100%"></iframe>
-{% endraw %}
 
 # Next update: an incidence rate reality check
 
