@@ -16,17 +16,17 @@ Let's start this blog on a cheerful note. After 3 weeks, the not-so-big secret i
 
 The most solid evidence is in the hospitals: the number of patients **currently occupying** regular hospital or ICU beds have not only flattened, but have even begun to go down .
   
-{% raw %}<iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/374.embed?showlink=false"></iframe> {% endraw %}
+{% raw %}<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/374.embed?showlink=false"></iframe> {% endraw %}
 
 You can also see that **new patient admissions** to hospital and ICU are going down even faster. This naturally bodes well for future hospital & ICU occupancy too.
 
-{% raw %}<iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/380.embed?showlink=false"></iframe> {% endraw %}
+{% raw %}<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/380.embed?showlink=false"></iframe> {% endraw %}
 
 ## Reality check
 
 Daily Covid deaths have flattened, but have not (yet) begun going down. Which is not surprising. Most people spend time in hospital or ICU before they unfortunately pass away.
 
-{% raw %}<iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/383.embed?showlink=false"></iframe> {% endraw %}
+{% raw %}<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/383.embed?showlink=false"></iframe> {% endraw %}
 
 Another sobering thought to keep in mind: not all Covid deaths are in the hospital. To date, EHPADs (senior homes) account for ~1/3 of total Covid deaths. 
 
