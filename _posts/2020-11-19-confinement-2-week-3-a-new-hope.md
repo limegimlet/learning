@@ -14,15 +14,19 @@ Let's start this blog on a cheerful note. After 3 weeks, the not-so-big secret i
 
 <sup><b>*</b> but since we're talking about Covid-19, the ~~true~~ more complete answer is never that simple.</sup>
 
+## Hospital occupancy going down
+
 The most solid evidence is in the hospitals: the number of patients **currently occupying** regular hospital or ICU beds have not only flattened, but have even begun to go down .
   
 {% raw %}<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/374.embed?showlink=false"></iframe> {% endraw %}
+
+## New admissions going down even faster
 
 You can also see that **new patient admissions** to hospital and ICU are going down even faster. This naturally bodes well for future hospital & ICU occupancy too.
 
 {% raw %}<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/380.embed?showlink=false"></iframe> {% endraw %}
 
-## Reality check
+## New deaths remain flat for now
 
 Daily Covid deaths have flattened, but have not (yet) begun going down. This is not surprising: most people spend time in hospital or ICU before they pass away.
 
