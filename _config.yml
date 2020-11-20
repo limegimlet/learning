@@ -60,7 +60,9 @@ plugins:
 author:
   name   : "S. Hosking"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  #bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio     : "Explainer. Cyclist. Data analyst. Aspiring Data Scientist."
+  location : "Paris, France"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
