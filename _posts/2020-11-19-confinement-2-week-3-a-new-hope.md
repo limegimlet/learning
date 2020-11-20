@@ -20,7 +20,7 @@ The most solid evidence is in the hospitals: the number of patients **currently 
 
 You can also see that **new patient admissions** to hospital and ICU are going down even faster. This naturally bodes well for future hospital & ICU occupancy too.
 
-{% raw %}<iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/376.embed?showlink=false"></iframe> {% endraw %}
+{% raw %}<iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/380.embed?showlink=false"></iframe> {% endraw %}
 
 ## Reality check
 
