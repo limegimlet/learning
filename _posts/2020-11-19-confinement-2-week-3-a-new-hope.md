@@ -10,7 +10,7 @@ tags:
   - update
 ---
 
-Let's start this blog on a cheerful note. After 3 weeks, the not-so-big secret is _it's getting better_<sup>*</sup>. 
+Let's start this blog on a cheerful note. After 3 weeks, the not-so-big secret is it's truly getting better<sup>*</sup>! 
 
 <sup><b>*</b>: but since we're talking about Covid-19, the ~~true~~ more complete answer is never that simple.</sup>
 
