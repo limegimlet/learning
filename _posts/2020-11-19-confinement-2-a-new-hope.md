@@ -31,7 +31,7 @@ You can also see that **new patient admissions** to hospital and ICU are going d
 
 Daily Covid deaths are now barely increasing, and you can only really see the increase by zooming in on the last few days. Since ICU occupancy as well as new admissions are already decreasing, we can expect to soon see deaths level off. 
 
-This lag is to be expected: most patients will spend time fighting against Covid in hospital or ICU before they pass away.
+This lag is to be expected: most patients will spend considerble time battling Covid in hospital or ICU before they pass away.
 
 {% raw %}<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/383.embed?showlink=false"></iframe> {% endraw %}
 
