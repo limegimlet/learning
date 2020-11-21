@@ -41,15 +41,22 @@ Another sobering thought to keep in mind: not all Covid deaths are in the hospit
 
 ## But the war ain't over
 
-On Nov 20, the only France metroplitaine region with **less** than 60% of ICU was Bretagne. 
+On Nov 20, the only France metroplitaine region with **less** than 60% ICU saturation was Bretagne. 
 
-{% raw %}<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://limegimlet.github.io/covid_dataviz/rea_pct_region.html" height="600" width="100%"></iframe>
-{% endraw %}
+ICU Covid occupancy for France métropolitaine was ~90% as of Nov 19.
 
-Some of you may recall that 60% ICU saturation was the threshold for _Etat d'urgence sanitaire_, the most dire of the 4  brief-lived alert levels that were introduced in September, since it would so several limit ICU capacity for other patients.
+Some of you may recall that 60% ICU saturation was the threshold for _Etat d'urgence sanitaire_. This was the most dire of the 4 short-lived alert levels that were introduced in September (and seem to have [since been abandoned](https://limegimlet.github.io/covid_dataviz/#where-can-i-see-the-official-government-stats-on-covid-19){:target="_blank"}). It was set to this seemingly-low level to allow ICUs to continue to receive non-Covid patients. 
 
-In Macron's speech in mid-October, he explained that a **sustainable level of Covid patients in ICU is 10-15%**.
+In Macron's speech in mid-October, he explained that a **sustainable level of Covid patients in ICU is 10-15%**. 
 
-# Next update: an incidence rate reality check
+<blockquote>"on doit aussi fortement les réduire pour au fond, revenir à un niveau de nombre de cas Covid en réanimation, qui est de <b>l'ordre de 10 à 15 % d'honoraire au maximum</b>, parce que là, c'est soutenable." </blockquote>
+
+- [From President Macron's interview, Oct 14 2020](https://www.vie-publique.fr/discours/276714-emmanuel-macron-14102020-covid-19-couvre-feu){:target="_blank"}.
+
+In the animation below, the first date (June 15) is when France was at ~15% ICU Covid occupancy, while the second date (June 30) is ~10% occupancy. This was the receding of the first Covid wave—from a peak in early April. You'll see it continue to go lower until August.
+
+{% raw %}<iframe width="100%" height="800" frameborder="0" scrolling="no" src="https://limegimlet.github.io/covid_dataviz/rea_animated_map.html"></iframe> {% endraw %}
+
+# Next post: an incidence rate reality check
 
 In my next post, I'll explain that the plunge in incidence rates, while definitely a clear trend, is not _quite_ as spectacular as some news articles has made it sound. 
