@@ -53,7 +53,13 @@ In Macron's speech in mid-October, he explained that a **sustainable level of Co
 
 - [From President Macron's interview, Oct 14 2020](https://www.vie-publique.fr/discours/276714-emmanuel-macron-14102020-covid-19-couvre-feu){:target="_blank"}.
 
-In the animation below, the first date (June 15) is when France was at ~15% ICU Covid occupancy, while the second date (June 30) is ~10% occupancy. This was the receding of the first Covid wave—from a peak in early April. You'll see it continue to go lower until August.
+## What 10-15% ICU occupancy looks like
+
+In the animation below: 
+* the first date (June 15) is when France was at ~15% ICU Covid occupancy
+* the second date (June 30) is ~10% occupancy. 
+
+This was the receding of the first Covid wave—from a peak in early April. You'll see it continue to go lower until August.
 
 {% raw %}<iframe width="100%" height="800" frameborder="0" scrolling="no" src="https://limegimlet.github.io/covid_dataviz/rea_animated_map.html"></iframe> {% endraw %}
 
