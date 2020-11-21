@@ -1,7 +1,6 @@
 ---
 title: "Incidence rate reality check"
 date: 2020-11-20T13:53:30-04:00
-published: false
 
 categories:
   - blog
