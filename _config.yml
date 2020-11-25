@@ -27,6 +27,12 @@ minimal_mistakes_skin: default
 search: true
 github: [metadata]
 
+# tracking info
+analytics:
+  # provider               : false # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id : 254118374
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
