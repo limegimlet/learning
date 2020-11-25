@@ -31,7 +31,7 @@ github: [metadata]
 analytics:
   # provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id : 254118374
+    tracking_id : G-WJK93JJHWP
 
 # Build settings
 markdown: kramdown
