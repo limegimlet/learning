@@ -9,7 +9,7 @@ tags:
   - confinement
   - update
 ---
-Let's start this blog on a cheerful note. 3 weeks into our 2nd confinement here in France, the not-so-big secret is it is indeed getting better.<sup>*</sup>
+Let's ressurect this blog on a cheerful note. 3 weeks into our 2nd confinement here in France, the not-so-big secret is it is indeed getting better.<sup>*</sup>
 
 <sup><b>*</b> but since we're talking about Covid-19, the ~~true~~ more complete answer is never that simple.</sup>
 
