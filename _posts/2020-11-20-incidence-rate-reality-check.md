@@ -1,7 +1,7 @@
 ---
 title: "Incidence rate reality check"
 date: 2020-11-20T13:53:30-04:00
-#published: false
+published: false
 classes: wide
 categories:
   - blog
@@ -34,7 +34,7 @@ And vice-versa.
 Sure enough, testing has nosedived as well.
 
 {% raw %}<iframe width="75%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/405.embed?showlink=false"></iframe> {% endraw %}
-    
+
 ## The final result
 
 {% raw %}<iframe width="75%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/407.embed?showlink=false"></iframe> {% endraw %}
