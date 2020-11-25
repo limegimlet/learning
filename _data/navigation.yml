@@ -6,6 +6,6 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "Covid Data Viz"
-    url: "https://limegimlet.github.io/covid_dataviz"
+    url: "https://limegimlet.github.io/covid_dataviz/"
   - title: "About"
     url: /about/
