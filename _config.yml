@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Learning to train and training to learn how to analyze data & code in Python and R.
 
 url : "https://limegimlet.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#baseurl : "/learning" # the subpath of your site, e.g. "/blog"
+baseurl : "/learning" # the subpath of your site, e.g. "/blog"
 
 twitter_username: sehosking
 github_username: limegimlet
@@ -29,9 +29,9 @@ github: [metadata]
 
 # tracking info
 analytics:
-  # provider               : false # false (default), "google", "google-universal", "custom"
+  provider : "google"
   google:
-    tracking_id : G-WJK93JJHWP
+    tracking_id : "G-WJK93JJHWP"
 
 # Build settings
 markdown: kramdown
