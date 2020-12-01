@@ -35,7 +35,7 @@ analytics:
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: limegimlet/minimal-mistakes
 #remote_theme: joshgerdes/jekyll-uno
 
 # Outputting
