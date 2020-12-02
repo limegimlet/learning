@@ -40,6 +40,6 @@ The lemonade out of all these lemons is it left me with a lot more time, as well
 
 ![Github heatmap](../../assets/images/2020/nov28_github_heatmap.png)
 
-The upshot is I could finally share some of the many Covid data explorations I've been working on since the first confinement.
+The upshot is I could finally share some of the Covid data explorations I've been working on since the first confinement.
 
 That being said, I'm feeling a very strong need to blog about something, _anything_,  that's not Covid. So expect to see a bit more variety—including more of the cycling variety—shortly!
