@@ -17,6 +17,6 @@ Just in case a quote from the Pasteur Institute isn't enough for you, here's a v
 
 {% raw %}<iframe width="100%" height="500" frameborder="0" scrolling="no" src="//plotly.com/~limegimlet/593.embed?showlink=false"></iframe> {% endraw %}
 
-**The numbers behind these projections**
+<!--**The numbers behind these projections**
 
-![Pos projections](../../assets/images/2020/dec4_pos_projections.png)
+![Pos projections](../../assets/images/2020/dec4_pos_projections.png)-->
