@@ -26,7 +26,7 @@ The official line is that the cautious pace is intentional, in order to get the 
 
 This is what has been said by the Health minister, Olivier Veran, "Monsieur Vaccin" Alain Fischer and last night echoed by the government spokesperson, Gabriel Attal.
 
-They all make a big point of emphasizing the complexity, as they are taking the vaccine to the EHPAD residents, not vice versa, implying that countries going faster (ie Germany) are frog-marching their elderly to giant vaccinodromes. Which is [false](https://www.france24.com/en/europe/20201226-in-germany-101-year-old-woman-first-to-receive-covid-19-vaccine){:target="_blank"}.
+They all make a big point of emphasizing the complexity, as they are taking the vaccine to the EHPAD residents, not vice versa, implying that countries going faster (ie Germany) are frog-marching their elderly to giant _vaccinodromes_. Which is [false](https://www.france24.com/en/europe/20201226-in-germany-101-year-old-woman-first-to-receive-covid-19-vaccine){:target="_blank"}.
 
 (They also like to point to the dosage error that occurred in Germany. This affected a total of [8 people](https://www.dw.com/en/coronavirus-german-care-home-workers-accidentally-given-vaccine-overdose/a-56077717){:target="_blank"}, with 4 needing hospitalization, _out of 78 000 people vaccinated_.)
 
