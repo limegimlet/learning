@@ -49,7 +49,7 @@ Given the current facts:
 * trained hospital and especially ICU staff is scarce in France, and they are exhausted after battling two waves in quick succession;
 * There's a 50% more infectious variant of Covid that's been circulating in southeast England since at least September, and despite limited genetic sequencing capabilities in France, at least one confirmed case of this variant has already been found. Likely there are far more given the size of the expat communities on either side of the channel.
 
-Doesn't it seem prudent to assume there will be a third wave and that front-line hospital and emergency staff (even those young bucks under 50) are both vulnerable and essential and so should be among the first to get the vaccine too? Especially so if there's in one of regions where the virus is circulating?
+Doesn't it seem prudent to assume there will be a third wave and that front-line hospital and emergency staff (even those young bucks under 50) are both vulnerable and essential and so should be among the first to get the vaccine too? Especially if they are in one of regions where the virus is circulating the fastest?
 
 The conseil scientifique already warned the government on [Dec 23](https://en.wikipedia.org/wiki/Cover_your_ass){:target="_blank"}.
 
