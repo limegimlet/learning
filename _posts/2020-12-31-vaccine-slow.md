@@ -36,7 +36,7 @@ I'm not going to argue about complexity; the temperature constraints are well kn
 
 Forget comparisons with the logistical-powerhouse next door: **even tiny Romania has managed to vaccinate 20x more people than France so far**.
 
-But what really annoys is me is implying that France is somehow going out of its way to protect their elderly, when other countries are doing that too, just much faster and they are also allowing other groups to get vaccines, notably healthcare workers.
+But what really annoys me is implying that France is going above and beyond anywhere else to protect their elderly, when other countries are doing that too, just much faster and they are also allowing other groups to get vaccines, notably healthcare workers.
 
 ## Healthcare workers are vulnerable too
 
