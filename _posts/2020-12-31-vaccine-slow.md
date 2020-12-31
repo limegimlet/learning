@@ -22,7 +22,7 @@ Herd immunity from mass vaccination is currently the only feasible way to get ou
 
 ## The official explanation
 
-The official line is that the cautious pace is intentional, in order to get the consent and then vaccinate the first most vulnerable at the EHPADs, followed by healthcare workers over 50 (and with "risk factors") as of mid-January.
+The official line is that the cautious pace is intentional, in order to get the consent and then vaccinate the most vulnerable, first at the EHPADs, followed by healthcare workers (but only those over 50 _and_ with "risk factors") as of mid-January.
 
 This is what has been said by the Health minister, Olivier Veran, "Monsieur Vaccin" Alain Fischer and last night echoed by the government spokesperson, Gabriel Attal.
 
